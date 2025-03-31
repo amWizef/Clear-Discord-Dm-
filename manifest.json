@@ -3,5 +3,5 @@
   "description": "Adds a button to delete all messages from a user in a DM.",
   "author": "Wizef",
   "version": "1.0",
-  "source": "https://raw.githubusercontent.com/amWizef/Clear-Discord-Dm-/main/delete_dm_button.js"
+  "source": "https://raw.githubusercontent.com/amWizef/Clear-Discord-Dm-/delete_dm_button.js"
 }
